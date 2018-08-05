@@ -1,4 +1,4 @@
-# BetMath
+# N-Closest-Bet in Solidity
 ## Introduction
 
 Sometimes events can have multiple outcomes, which can be demonstrated by grades or scores.
